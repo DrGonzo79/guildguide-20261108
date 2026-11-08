@@ -1,0 +1,17 @@
+{
+  "communities":[
+    {"id":"lens-lab","name":"Lens Lab Collective","vertical":"Photography","members":684,"monthlyPrice":49,"owner":"Maya Chen","expert":"Nico Alvarez","useCases":["travel","portrait","video"]},
+    {"id":"trail-table","name":"Trail Table Guild","vertical":"Cycling","members":418,"monthlyPrice":35,"owner":"Iris Bell","expert":"Sam Okoro","useCases":["commute","gravel","touring"]},
+    {"id":"signal-room","name":"Signal Room","vertical":"Music production","members":932,"monthlyPrice":59,"owner":"Dev Shah","expert":"Ana Costa","useCases":["vocals","podcast","mobile"]}
+  ],
+  "products":[
+    {"id":"lumina-x4","communityId":"lens-lab","name":"Lumina X4","price":1299,"useCases":["travel","video"],"fit":92,"confidence":88,"reviewedDaysAgo":24,"source":"Member thread #482 · 31 field notes","dissent":"Battery grip adds too much travel weight."},
+    {"id":"portrait-pro","communityId":"lens-lab","name":"Portrait Pro 8","price":1890,"useCases":["portrait","video"],"fit":95,"confidence":81,"reviewedDaysAgo":96,"source":"Studio roundtable · 14 owners","dissent":"Autofocus advantage narrows after firmware 3.2."},
+    {"id":"roam-mini","communityId":"lens-lab","name":"Roam Mini","price":799,"useCases":["travel"],"fit":84,"confidence":91,"reviewedDaysAgo":43,"source":"Travel kit poll · 57 votes","dissent":"No weather sealing."},
+    {"id":"ember-gx","communityId":"lens-lab","name":"Ember GX","price":999,"useCases":["travel","portrait"],"fit":79,"confidence":67,"reviewedDaysAgo":214,"source":"Pinned gear list · 2026 Q1","dissent":"Two experts dispute low-light color rendering."},
+    {"id":"switchback-2","communityId":"trail-table","name":"Switchback 2","price":2100,"useCases":["gravel","touring"],"fit":94,"confidence":86,"reviewedDaysAgo":31,"source":"Build log roundup · 22 riders","dissent":"Stock wheelset is heavy."},
+    {"id":"metroline","communityId":"trail-table","name":"Metroline 7","price":1190,"useCases":["commute","touring"],"fit":89,"confidence":93,"reviewedDaysAgo":72,"source":"Commuter survey · 64 rides","dissent":"Rack mounts need thread-locker."},
+    {"id":"sonora-one","communityId":"signal-room","name":"Sonora One","price":549,"useCases":["vocals","podcast"],"fit":91,"confidence":90,"reviewedDaysAgo":18,"source":"Blind mic test · 19 producers","dissent":"Needs a treated room."},
+    {"id":"pocketwave","communityId":"signal-room","name":"PocketWave","price":299,"useCases":["mobile","podcast"],"fit":86,"confidence":76,"reviewedDaysAgo":141,"source":"Mobile rig thread · 28 replies","dissent":"USB noise reported on two Android models."}
+  ]
+}
